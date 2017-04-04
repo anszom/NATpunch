@@ -1,3 +1,5 @@
+// Copyright 2016 Andrzej Szombierski
+// License: GPLv2, see LICENSE for full text
 #include <unistd.h>
 #include <string.h>
 #include <netinet/in.h>
